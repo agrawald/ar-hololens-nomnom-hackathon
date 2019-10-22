@@ -1,4 +1,4 @@
-# RMIT Microsoft Hololens Hackathorn 2019
+# RMIT Microsoft Hololens Hackathon 2019
 
 # application
 
